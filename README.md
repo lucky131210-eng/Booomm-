@@ -1,2 +1,5 @@
 # Booomm-
-blah blah blah
+
+## What It Is
+
+A Boba Bash Delhi project.
